@@ -1,4 +1,5 @@
-# Install Argo CD
+# Argo CD: Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes
+## Install Argo CD
 
 ## Step 1:
 
